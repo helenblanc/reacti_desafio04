@@ -1,0 +1,7 @@
+# REACTI_DESAFIO03
+
+## INSTALAR LIBRERIAS
+npm install
+
+## DESPLEGAR
+npm run start
