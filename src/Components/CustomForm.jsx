@@ -106,7 +106,7 @@ export const CustomForm = () => {
             <h4>Buscador de Personajes (Rick & Morty)</h4>
           </Col>
           <Col md>
-            <Form.Control type="text" placeholder="Buscar un colaborador"
+            <Form.Control type="text" placeholder="Buscador de Personajes"
               name='buscarColaborador' onChange={(e) => { filter(e.target.value) }} />
           </Col>
         </Row>
