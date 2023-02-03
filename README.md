@@ -8,3 +8,4 @@ npm install
 ## DESPLEGAR
 npm run start
 
+VIDEO EN GRABACIÓN.
